@@ -28,4 +28,4 @@ CSS – Styling, Flexbox/Grid layout, and responsiveness
 🚀 How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/studysync.git
+   git clone [https://github.com/your-username/studysync.git](https://github.com/Loki4710y/StudySync-website.git)
